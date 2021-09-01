@@ -1,0 +1,19 @@
+.body_backgorund {
+    background-position: center;
+    background-size: cover;
+    background-color:black;
+  }
+  body{
+    cursor: pointer;
+  }
+  #paint
+  {
+      color: red; 
+      font-size: 40px;
+  }
+  #myCanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  } 
